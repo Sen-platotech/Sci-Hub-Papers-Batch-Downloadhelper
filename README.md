@@ -205,7 +205,7 @@ python main.py
 
 ## 👤 作者
 
-**沈哲**
+**Sen**
 政治学 / 科技治理 / 学术自动化工具
 
 ---
@@ -423,7 +423,7 @@ python main.py
 
 ## 👤 Author
 
-**Zhe Shen**
+**Sen**
 Political Science · Technology Governance · Academic Automation
 
 ---
